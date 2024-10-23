@@ -1,6 +1,8 @@
 # Heart Disease Analysis
 
-![Heart Disease](Dashboard Img 1.png)
+![Dashboard Image 1](DashboardImg1.png)
+
+![Dashboard Image 2](DashboardImg2.png)
 
 This project analyzes heart disease diagnostic data to uncover trends and provide actionable insights for healthcare professionals. The analysis focuses on key risk factors such as age, gender, cholesterol levels, blood pressure, and chest pain types, offering recommendations for early detection and prevention.
 
